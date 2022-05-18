@@ -1,0 +1,22 @@
+{
+  "name": "streamline",
+  "version": "1.0.0",
+  "description": "Find films streaming on your subscription services",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PKilgarriff/streamline.git"
+  },
+  "author": "Paul Kilgarriff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PKilgarriff/streamline/issues"
+  },
+  "homepage": "https://github.com/PKilgarriff/streamline#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
